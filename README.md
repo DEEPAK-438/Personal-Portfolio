@@ -12,3 +12,26 @@ Motivated and detail-oriented Computer Science student seeking a software develo
 - **Design:** Responsive layout using semantic HTML and clean CSS
 
 ## 📂 Project Structure
+
+
+
+## 🚀 Features
+- Fully responsive and mobile-friendly layout
+- Clean and modular sectioning (About, Education, Skills, Projects, etc.)
+- GitHub-linked project cards
+- Contact section with email and phone
+- Includes certifications, experience, and publication details
+
+## 💼 Live Projects Mentioned
+- [Portfolio Website](https://github.com/deepakponnada/portfolio)
+- [Caesar Cipher Tool](https://github.com/deepakponnada/caesar-cipher)
+- [Data Frame Filter & Query Generator](https://github.com/deepakponnada/data-frame-filter)
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 📫 Contact
+- **Email:** deepakponnada4092@gmail.com  
+- **GitHub:** [DEEPAK-438](https://github.com/DEEPAK-438)  
+- **LinkedIn:** (Add your LinkedIn link here)
+
